@@ -1,0 +1,328 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 226538,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 307548,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Mil",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 849321,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Eating Burguer",
+      "description": "Let's eat burguer on BK",
+      "location": "Burguer King",
+      "date": "2020-04-30T22:33:00.000Z",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 673476,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Success",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 56172,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Notification Test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 952340,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "asdasd",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 715942,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Mil",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 343564,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Dois mil",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 797510,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Puppy Picknic",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 157644,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Puppy Party",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 275997,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "AAAAAAAAAAaa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 568569,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 335702,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 877034,
+      "user": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Henrique rodrigues"
+      },
+      "title": "Puppy Parade",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
